@@ -9,7 +9,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-**Hello Microverse** is a simple project to get started with linters and best practices for version control with git
+**Hello Microverse** is a simple project to get started with linters and best practices for version control with git.
 
 ## 🛠 Built With <a name="built-with"></a>
 
